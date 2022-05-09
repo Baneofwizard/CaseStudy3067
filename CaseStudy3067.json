@@ -1,152 +1,152 @@
 [
-  -{
-ProductName: "GEL-NIMBUS",
-GraphicName: "GEL-NIMBUS 24",
-CostPrice: "35.00",
-MSRP: "210.00",
-QtyOnHand: "0",
-QtyOnBackOrder: "5",
-Description: "The GEL-NIMBUS 24 shoe offers advanced impact protection for your distance training.",
-Brand: "Asics"
-},
--{
-ProductName: "METASPEED",
-GraphicName: "METASPEED SKY",
-CostPrice: "54.15",
-MSRP: "325.00",
-QtyOnHand: "5",
-QtyOnBackOrder: "0",
-Description: "The METASPEED Sky racing shoe moves you towards a sound mind and a new personal best. It's designed to help you go faster by extending your stride length.",
-Brand: "Asics"
-},
--{
-ProductName: "METARIDE",
-GraphicName: "METARIDE",
-CostPrice: "50.00",
-MSRP: "300.00",
-QtyOnHand: "10",
-QtyOnBackOrder: "0",
-Description: "Take on longer distances more comfortably with the METARIDE performance running shoe. Engineered for those who want to go further, this shoe offers an efficient design that's equipped with energized cushioning.",
-Brand: "Asics"
-},
--{
-ProductName: "GEL-KINSEI",
-GraphicName: "GEL-KINSEI BLAST",
-CostPrice: "41.66",
-MSRP: "250.00",
-QtyOnHand: "15",
-QtyOnBackOrder: "0",
-Description: "The GEL-KINSEI Blast shoes are designed for distance runners seeking a smooth stride. They keep your mind and body energized to achieve your training goals.",
-Brand: "Asics"
-},
--{
-ProductName: "METARACER",
-GraphicName: "METARACER",
-CostPrice: "43.33",
-MSRP: "260.00",
-QtyOnHand: "20",
-QtyOnBackOrder: "0",
-Description: "The METARACER shoe is made for runners who want the most out of their fast-paced training and racing.",
-Brand: "Asics"
-},
--{
-ProductName: "Flow",
-GraphicName: "Unisex Curry Flow 9 Basketball Shoes",
-CostPrice: "31.66",
-MSRP: "190.00",
-QtyOnHand: "0",
-QtyOnBackOrder: "10",
-Description: "You've never felt shoes like these before. UA Flow is totally rubberless, making them light and ridiculously grippy. UA Warp upper works like mini seat belts locking you in. Together, you get stop and go speed + control.",
-Brand: "Under Armour"
-},
--{
-ProductName: "HOVR",
-GraphicName: "Men's UA HOVR Drive Spikeless Golf Shoes",
-CostPrice: "30.00",
-MSRP: "180.00",
-QtyOnHand: "10",
-QtyOnBackOrder: "0",
-Description: "The key here is the UA HOVR™ cushioning—it's not just comfortable, it actually returns energy. Add in waterproof, breathable technology and you're ready to go all season.",
-Brand: "Under Armour"
-},
--{
-ProductName: "Breeze",
-GraphicName: "Women's UA Charged Breeze Running Shoes",
-CostPrice: "18.33",
-MSRP: "110.00",
-QtyOnHand: "20",
-QtyOnBackOrder: "0",
-Description: "If you're looking for a lightweight, extremely breathable running shoe that's as responsive as it is durable—you found it.",
-Brand: "Under Armour"
-},
--{
-ProductName: "TriBase",
-GraphicName: "Men's UA TriBase Reign 4 Training Shoes",
-CostPrice: "23.33",
-MSRP: "140.00",
-QtyOnHand: "5",
-QtyOnBackOrder: "0",
-Description: "The better your contact with the floor during your workouts, the better those workouts are going to be. The low, stable triangular base of the UA TriBase tech will help you through every rep, set, and WOD.",
-Brand: "Under Armour"
-},
--{
-ProductName: "Flow",
-GraphicName: "Men's UA Flow Velociti Wind 2 Running Shoes",
-CostPrice: "31.66",
-MSRP: "190.00",
-QtyOnHand: "0",
-QtyOnBackOrder: "10",
-Description: "There's fast, and then there's UA Flow fast. Lightweight, rubberless, and durable, our newest cushioning gives a close-to-the-ground, grippy feeling of speed. The kind of speed that feels like you've got the wind at your back.",
-Brand: "Under Armour"
-},
--{
-ProductName: "PREMIUM 6-INCH",
-GraphicName: "MEN'S TIMBERLAND PREMIUM 6-INCH WATERPROOF BOOTS",
-CostPrice: "33.33",
-MSRP: "200.00",
-QtyOnHand: "5",
-QtyOnBackOrder: "0",
-Description: "Inspired by our original waterproof boot, this all-season style gives you tireless waterproof performance and instantly recognizable work-boot styling.",
-Brand: "Timberland"
-},
--{
-ProductName: "TBL",
-GraphicName: "MEN'S TBL ORIGINALS ULTRA CHUKKA BOOTS",
-CostPrice: "25.00",
-MSRP: "150.00",
-QtyOnHand: "10",
-QtyOnBackOrder: "0",
-Description: "These durable chukka boots are eco-consciously made with our GreenStride sole made of 75% renewable bio-based material and responsibly sourced leather and linings.",
-Brand: "Timberland"
-},
--{
-ProductName: "EURO",
-GraphicName: "MEN'S EURO HIKER WATERPROOF HIKING BOOTS",
-CostPrice: "25.00",
-MSRP: "150.00",
-QtyOnHand: "5",
-QtyOnBackOrder: "0",
-Description: "This season we reimagine them for today. Made with a steel shank for arch support, a cushiony EVA-blend foam midsole, a rubber lug outsole for traction, and a protective climbing rubber tip, it's also fully waterproof with our exclusive TimberDry waterproof membrane made of 50% recycled plastic bottles. ",
-Brand: "Timberland"
-},
--{
-ProductName: "SOLAR WAVE",
-GraphicName: "MEN'S GREENSTRIDE SOLAR WAVE LT HIKING BOOTS",
-CostPrice: "25.00",
-MSRP: "150.00",
-QtyOnHand: "0",
-QtyOnBackOrder: "1",
-Description: "Light Trail ready with thick, hiking-influenced lugs, these men's hikers are also very light in weight.",
-Brand: "Timberland"
-},
-{
-ProductName: "EURO",
-GraphicName: "MEN'S EURO TREKKER SNEAKERS",
-CostPrice: "16.66",
-MSRP: "100.00",
-QtyOnHand: "2",
-QtyOnBackOrder: "0",
-Description: "These sturdy men's sneakers are ready for anything, from hiking trails to city streets.",
-Brand: "Timberland"
-}
+  {
+    "ProductName": "GEL-NIMBUS",
+    "GraphicName": "GEL-NIMBUS 24",
+    "CostPrice": "35.00",
+    "MSRP": "210.00",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "5",
+    "Description": "The GEL-NIMBUS 24 shoe offers advanced impact protection for your distance training.",
+    "Brand": "Asics"
+  },
+  {
+    "ProductName": "METASPEED",
+    "GraphicName": "METASPEED SKY",
+    "CostPrice": "54.15",
+    "MSRP": "325.00",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "0",
+    "Description": "The METASPEED Sky racing shoe moves you towards a sound mind and a new personal best. It's designed to help you go faster by extending your stride length.",
+    "Brand": "Asics"
+  },
+  {
+    "ProductName": "METARIDE",
+    "GraphicName": "METARIDE",
+    "CostPrice": "50.00",
+    "MSRP": "300.00",
+    "QtyOnHand": "10",
+    "QtyOnBackOrder": "0",
+    "Description": "Take on longer distances more comfortably with the METARIDE performance running shoe. Engineered for those who want to go further, this shoe offers an efficient design that's equipped with energized cushioning.",
+    "Brand": "Asics"
+  },
+  {
+    "ProductName": "GEL-KINSEI",
+    "GraphicName": "GEL-KINSEI BLAST",
+    "CostPrice": "41.66",
+    "MSRP": "250.00",
+    "QtyOnHand": "15",
+    "QtyOnBackOrder": "0",
+    "Description": "The GEL-KINSEI Blast shoes are designed for distance runners seeking a smooth stride. They keep your mind and body energized to achieve your training goals.",
+    "Brand": "Asics"
+  },
+  {
+    "ProductName": "METARACER",
+    "GraphicName": "METARACER",
+    "CostPrice": "43.33",
+    "MSRP": "260.00",
+    "QtyOnHand": "20",
+    "QtyOnBackOrder": "0",
+    "Description": "The METARACER shoe is made for runners who want the most out of their fast-paced training and racing.",
+    "Brand": "Asics"
+  },
+  {
+    "ProductName": "Flow",
+    "GraphicName": "Unisex Curry Flow 9 Basketball Shoes",
+    "CostPrice": "31.66",
+    "MSRP": "190.00",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "10",
+    "Description": "You've never felt shoes like these before. UA Flow is totally rubberless, making them light and ridiculously grippy. UA Warp upper works like mini seat belts locking you in. Together, you get stop and go speed + control.",
+    "Brand": "Under Armour"
+  },
+  {
+    "ProductName": "HOVR",
+    "GraphicName": "Men's UA HOVR Drive Spikeless Golf Shoes",
+    "CostPrice": "30.00",
+    "MSRP": "180.00",
+    "QtyOnHand": "10",
+    "QtyOnBackOrder": "0",
+    "Description": "The key here is the UA HOVR™ cushioning—it's not just comfortable, it actually returns energy. Add in waterproof, breathable technology and you're ready to go all season.",
+    "Brand": "Under Armour"
+  },
+  {
+    "ProductName": "Breeze",
+    "GraphicName": "Women's UA Charged Breeze Running Shoes",
+    "CostPrice": "18.33",
+    "MSRP": "110.00",
+    "QtyOnHand": "20",
+    "QtyOnBackOrder": "0",
+    "Description": "If you're looking for a lightweight, extremely breathable running shoe that's as responsive as it is durable—you found it.",
+    "Brand": "Under Armour"
+  },
+  {
+    "ProductName": "TriBase",
+    "GraphicName": "Men's UA TriBase Reign 4 Training Shoes",
+    "CostPrice": "23.33",
+    "MSRP": "140.00",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "0",
+    "Description": "The better your contact with the floor during your workouts, the better those workouts are going to be. The low, stable triangular base of the UA TriBase tech will help you through every rep, set, and WOD.",
+    "Brand": "Under Armour"
+  },
+  {
+    "ProductName": "Flow",
+    "GraphicName": "Men's UA Flow Velociti Wind 2 Running Shoes",
+    "CostPrice": "31.66",
+    "MSRP": "190.00",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "10",
+    "Description": "There's fast, and then there's UA Flow fast. Lightweight, rubberless, and durable, our newest cushioning gives a close-to-the-ground, grippy feeling of speed. The kind of speed that feels like you've got the wind at your back.",
+    "Brand": "Under Armour"
+  },
+  {
+    "ProductName": "PREMIUM 6-INCH",
+    "GraphicName": "MEN'S TIMBERLAND PREMIUM 6-INCH WATERPROOF BOOTS",
+    "CostPrice": "33.33",
+    "MSRP": "200.00",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "0",
+    "Description": "Inspired by our original waterproof boot, this all-season style gives you tireless waterproof performance and instantly recognizable work-boot styling.",
+    "Brand": "Timberland"
+  },
+  {
+    "ProductName": "TBL",
+    "GraphicName": "MEN'S TBL ORIGINALS ULTRA CHUKKA BOOTS",
+    "CostPrice": "25.00",
+    "MSRP": "150.00",
+    "QtyOnHand": "10",
+    "QtyOnBackOrder": "0",
+    "Description": "These durable chukka boots are eco-consciously made with our GreenStride sole made of 75% renewable bio-based material and responsibly sourced leather and linings.",
+    "Brand": "Timberland"
+  },
+  {
+    "ProductName": "EURO",
+    "GraphicName": "MEN'S EURO HIKER WATERPROOF HIKING BOOTS",
+    "CostPrice": "25.00",
+    "MSRP": "150.00",
+    "QtyOnHand": "5",
+    "QtyOnBackOrder": "0",
+    "Description": "This season we reimagine them for today. Made with a steel shank for arch support, a cushiony EVA-blend foam midsole, a rubber lug outsole for traction, and a protective climbing rubber tip, it's also fully waterproof with our exclusive TimberDry waterproof membrane made of 50% recycled plastic bottles. ",
+    "Brand": "Timberland"
+  },
+  {
+    "ProductName": "SOLAR WAVE",
+    "GraphicName": "MEN'S GREENSTRIDE SOLAR WAVE LT HIKING BOOTS",
+    "CostPrice": "25.00",
+    "MSRP": "150.00",
+    "QtyOnHand": "0",
+    "QtyOnBackOrder": "1",
+    "Description": "Light Trail ready with thick, hiking-influenced lugs, these men's hikers are also very light in weight.",
+    "Brand": "Timberland"
+  },
+  {
+    "ProductName": "EURO",
+    "GraphicName": "MEN'S EURO TREKKER SNEAKERS",
+    "CostPrice": "16.66",
+    "MSRP": "100.00",
+    "QtyOnHand": "2",
+    "QtyOnBackOrder": "0",
+    "Description": "These sturdy men's sneakers are ready for anything, from hiking trails to city streets.",
+    "Brand": "Timberland"
   }
+]
