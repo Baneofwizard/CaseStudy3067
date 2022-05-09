@@ -1,4 +1,5 @@
-{
+[
+  {
 ProductName: "GEL-NIMBUS",
 GraphicName: "GEL-NIMBUS 24",
 CostPrice: "35.00",
@@ -148,3 +149,4 @@ QtyOnBackOrder: "0",
 Description: "These sturdy men's sneakers are ready for anything, from hiking trails to city streets.",
 Brand: "Timberland"
 }
+  }
