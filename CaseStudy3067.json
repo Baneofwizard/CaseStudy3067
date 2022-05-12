@@ -1,7 +1,7 @@
 [
   {
-    "ProductName": "GEL-NIMBUS",
-    "GraphicName": "GEL-NIMBUS 24",
+    "ProductName": "GEL-NIMBUS 24",
+    "GraphicName": "Gel24.png",
     "CostPrice": "35.00",
     "MSRP": "210.00",
     "QtyOnHand": "0",
@@ -10,8 +10,8 @@
     "Brand": "Asics"
   },
   {
-    "ProductName": "METASPEED",
-    "GraphicName": "METASPEED SKY",
+    "ProductName": "METASPEED SKY",
+    "GraphicName": "MetaSky.png",
     "CostPrice": "54.15",
     "MSRP": "325.00",
     "QtyOnHand": "5",
@@ -21,7 +21,7 @@
   },
   {
     "ProductName": "METARIDE",
-    "GraphicName": "METARIDE",
+    "GraphicName": "MetaRide.png",
     "CostPrice": "50.00",
     "MSRP": "300.00",
     "QtyOnHand": "10",
@@ -30,8 +30,8 @@
     "Brand": "Asics"
   },
   {
-    "ProductName": "GEL-KINSEI",
-    "GraphicName": "GEL-KINSEI BLAST",
+    "ProductName": "GEL-KINSEI BLAST",
+    "GraphicName": "GelKinsei.png",
     "CostPrice": "41.66",
     "MSRP": "250.00",
     "QtyOnHand": "15",
@@ -41,7 +41,7 @@
   },
   {
     "ProductName": "METARACER",
-    "GraphicName": "METARACER",
+    "GraphicName": "MetaRacer.png",
     "CostPrice": "43.33",
     "MSRP": "260.00",
     "QtyOnHand": "20",
@@ -50,8 +50,8 @@
     "Brand": "Asics"
   },
   {
-    "ProductName": "Flow",
-    "GraphicName": "Unisex Curry Flow 9 Basketball Shoes",
+    "ProductName": "Unisex Curry Flow 9 Basketball Shoes",
+    "GraphicName": "Curry.png",
     "CostPrice": "31.66",
     "MSRP": "190.00",
     "QtyOnHand": "0",
@@ -60,8 +60,8 @@
     "Brand": "Under Armour"
   },
   {
-    "ProductName": "HOVR",
-    "GraphicName": "Men's UA HOVR Drive Spikeless Golf Shoes",
+    "ProductName": "Men's UA HOVR Drive Spikeless Golf Shoes",
+    "GraphicName": "Hovr.png",
     "CostPrice": "30.00",
     "MSRP": "180.00",
     "QtyOnHand": "10",
@@ -70,8 +70,8 @@
     "Brand": "Under Armour"
   },
   {
-    "ProductName": "Breeze",
-    "GraphicName": "Women's UA Charged Breeze Running Shoes",
+    "ProductName": "Women's UA Charged Breeze Running Shoes",
+    "GraphicName": "Breeze.png",
     "CostPrice": "18.33",
     "MSRP": "110.00",
     "QtyOnHand": "20",
@@ -80,8 +80,8 @@
     "Brand": "Under Armour"
   },
   {
-    "ProductName": "TriBase",
-    "GraphicName": "Men's UA TriBase Reign 4 Training Shoes",
+    "ProductName": "Men's UA TriBase Reign 4 Training Shoes",
+    "GraphicName": "Tribase.png",
     "CostPrice": "23.33",
     "MSRP": "140.00",
     "QtyOnHand": "5",
@@ -90,8 +90,8 @@
     "Brand": "Under Armour"
   },
   {
-    "ProductName": "Flow",
-    "GraphicName": "Men's UA Flow Velociti Wind 2 Running Shoes",
+    "ProductName": "Men's UA Flow Velociti Wind 2 Running Shoes",
+    "GraphicName": "Flow.png",
     "CostPrice": "31.66",
     "MSRP": "190.00",
     "QtyOnHand": "0",
@@ -100,8 +100,8 @@
     "Brand": "Under Armour"
   },
   {
-    "ProductName": "PREMIUM 6-INCH",
-    "GraphicName": "MEN'S TIMBERLAND PREMIUM 6-INCH WATERPROOF BOOTS",
+    "ProductName": "MEN'S TIMBERLAND PREMIUM 6-INCH WATERPROOF BOOTS",
+    "GraphicName": "Premium.png",
     "CostPrice": "33.33",
     "MSRP": "200.00",
     "QtyOnHand": "5",
@@ -110,8 +110,8 @@
     "Brand": "Timberland"
   },
   {
-    "ProductName": "TBL",
-    "GraphicName": "MEN'S TBL ORIGINALS ULTRA CHUKKA BOOTS",
+    "ProductName": "MEN'S TBL ORIGINALS ULTRA CHUKKA BOOTS",
+    "GraphicName": "Chukka.png",
     "CostPrice": "25.00",
     "MSRP": "150.00",
     "QtyOnHand": "10",
@@ -120,8 +120,8 @@
     "Brand": "Timberland"
   },
   {
-    "ProductName": "EURO",
-    "GraphicName": "MEN'S EURO HIKER WATERPROOF HIKING BOOTS",
+    "ProductName": "MEN'S EURO HIKER WATERPROOF HIKING BOOTS",
+    "GraphicName": "Waterproof.png",
     "CostPrice": "25.00",
     "MSRP": "150.00",
     "QtyOnHand": "5",
@@ -130,8 +130,8 @@
     "Brand": "Timberland"
   },
   {
-    "ProductName": "SOLAR WAVE",
-    "GraphicName": "MEN'S GREENSTRIDE SOLAR WAVE LT HIKING BOOTS",
+    "ProductName": "MEN'S GREENSTRIDE SOLAR WAVE LT HIKING BOOTS",
+    "GraphicName": "Greenstride.png",
     "CostPrice": "25.00",
     "MSRP": "150.00",
     "QtyOnHand": "0",
@@ -140,8 +140,8 @@
     "Brand": "Timberland"
   },
   {
-    "ProductName": "EURO",
-    "GraphicName": "MEN'S EURO TREKKER SNEAKERS",
+    "ProductName": "MEN'S EURO TREKKER SNEAKERS",
+    "GraphicName": "Sneaker.png",
     "CostPrice": "16.66",
     "MSRP": "100.00",
     "QtyOnHand": "2",
